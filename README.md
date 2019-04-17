@@ -1,5 +1,3 @@
-Link: https://astrogeology.usgs.gov/search/map/Mars/Viking/valles_marineris_enhanced
-
 # Mission to Mars
 
 ![mission_to_mars](Images/mission_to_mars.jpg)
