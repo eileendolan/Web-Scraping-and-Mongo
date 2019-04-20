@@ -57,7 +57,7 @@ def scrape():
     soup = BeautifulSoup(html_weather, 'html.parser')
 
     # Find the latest tweet elements
-    tweets = soup.find_all('div', class_='js-tweet-text-container')
+    tweet = soup.find_all('div', class_='js-tweet-text-container')
 
     # Retrieve all elements that contain news title in the specified scope
     # Look for weather related words and prevent non weather related tweets 
